@@ -1,1 +1,1 @@
-  <img src="https://github-readme-streak-stats-zeta-beryl.vercel.app?user=GwenhOPS&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stat-topaz.vercel.app?user=GwenhOPS&theme=dark&border_radius=4&locale=id" alt="GitHub Streak" />
