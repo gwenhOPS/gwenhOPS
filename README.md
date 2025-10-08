@@ -21,7 +21,7 @@
 </p>
 
 > 🔥 Cook or Be Cooked.  
-> 💻 Code → Scroll → Get Idea → Repeat.
+> 💻 Code → Bored → Scroll → Get Idea → Repeat.
 
 ---
 
