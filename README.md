@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gwenhops</h1>
 <h3 align="center">Frontend Developer | Schoolarship | Instagram Enjoyer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=+Hello World;My+Code+Name+Is+Gwnh;Junior+FrontEnd+Developer">
-</p>
-
 ---
 
 ## 🌐 Socials
