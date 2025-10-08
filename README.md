@@ -1,9 +1,9 @@
 <!-- 🌀 GITHUB PROFILE by ChatGPT -->
 <h1 align="center">Hi 👋, I'm Gwenhops</h1>
-<h3 align="center">Frontend Developer | Laravel Enthusiast | Code Artisan</h3>
+<h3 align="center">Frontend Developer | Schoolarship | Instagram Enjoyer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Crafting+modern+UI+with+React;Brewing+backend+with+Laravel;Building+dreams+line+by+line">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=+Hello World;My+Code+Name+Is+Gwnh;Junior+FrontEnd+Developer">
 </p>
 
 ---
@@ -21,30 +21,25 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,html,css,php,laravel,java,git,github,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,laravel,java,git,github,vscode" />
 </p>
 
-> Currently learning to mix **frontend beauty** with **backend power**.  
-> I code like I cook: chaos at first, but ends up delicious.
+> ⚡ Cooked or be cooked.  
+> 💻 Code → Scroll → Get Idea → Repeat.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gwenhops&theme=tokyonight&hide_border=false" height="165em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gwenhops&theme=tokyonight&hide_border=false" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150em" />
 </p>
 
 ---
 
 ## 🌀 Fun Zone
-> “Talk is cheap. Show me the code.” – Linus Torvalds  
-> Meanwhile, me: *spends 3 hours fixing indentation.*
+> “Today, I will be Productive  
+> "10 Second Later: *DoomScrolling Instagram and discord
 
 ---
-
-<!-- Proudly crafted with ❤️ and caffeine -->
