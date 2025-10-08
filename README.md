@@ -31,12 +31,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gwenhops&theme=tokyonight&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gwenhops&theme=tokyonight&hide_border=false" height="165em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhops&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165em" />
 </p>
 
 ---
