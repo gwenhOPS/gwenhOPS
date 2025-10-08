@@ -1,5 +1,5 @@
 <!-- 🌀 GITHUB PROFILE by ChatGPT -->
-<h1 align="center">Hi 👋, I'm Gwenhops</h1>
+<h1 align="center">Hi World 👋, I'm Gwnh</h1>
 <h3 align="center">Frontend Developer | Schoolarship | Instagram Enjoyer</h3>
 
 ---
