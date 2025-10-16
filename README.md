@@ -1,6 +1,6 @@
 <!-- 🌀 GITHUB PROFILE by ChatGPT -->
 <h1 align="center">Hi World 👋, I'm Gwnh</h1>
-<h3 align="center">Frontend Developer | Schoolarship | Instagram Enjoyer</h3>
+<h3 align="center">Junior Frontend Developer | Schoolarship | Instagram Enjoyer</h3>
 
 ---
 
