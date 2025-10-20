@@ -1,6 +1,6 @@
 <!-- 🌀 GITHUB PROFILE by ChatGPT -->
 <h1 align="center">Hi World 👋, I'm Gwnh</h1>
-<h3 align="center">Junior Frontend Developer | Schoolarship | Instagram Enjoyer</h3>
+<h3 align="center">Junior Frontend Developer | Scholarship | Instagram Enjoyer</h3>
 
 ---
 
@@ -34,8 +34,17 @@
 
 ---
 
-## 🌀 Fun Zone
-> “Today, I will be Productive  
-> "10 Second Later: *DoomScrolling Instagram and discord
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gwenhops&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/svg?username=gwenhops" />
+</p>
 
 ---
+
+## 🌀 Fun Zone
+> “Today, I will be Productive.”  
+> *10 Seconds Later:* Doomscrolling Instagram and Discord.
