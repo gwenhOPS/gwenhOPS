@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  
-![Visitor Count](https://count.getloli.com/get/@gwenhOPS-github-readme?theme=gelbooru)
+  <img src="https://count.getloli.com/get/@gwenhOPS-github-readme?theme=gelbooru" style="margin-top:8px" />
 </p>
+
 
 ## 🌐 Socials
 <p align="center">
