@@ -2,11 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+GwenhOPS;Laravel+%7C+React+%7C+Frontend;Build.+Break.+Repeat." />
 </h1>
 
+<h1 align="center">
 ![Visitor Count](https://count.getloli.com/get/@gwenhOPS-github-readme?theme=gelbooru)
+</h1>
 ---
 
 ## 🌐 Socials
-<p align="left">
+<p align="center">
   <a href="https://facebook.com/Kepompong-Sombrero">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -65,13 +67,6 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gwenhOPS&theme=radical&no-frame=false&margin-w=10" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gwenhOPS&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
