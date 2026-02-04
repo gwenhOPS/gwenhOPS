@@ -52,9 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gwenhOPS&theme=gotham&show_icons=true&hide_border=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=gwenhOPS&theme=gotham&hide_border=false" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhOPS&theme=gotham&layout=compact&hide_border=false" />
 </p>
 
