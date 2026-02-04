@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+GwenhOPS;Frontend+%26+Laravel+Enthusiast;Code.+Break.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+GwenhOPS;Laravel+%7C+React+%7C+Frontend;Build.+Break.+Repeat." />
 </h1>
+
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gwenhOPS&label=Profile%20Views&color=0&icon=5&pretty=true" />
