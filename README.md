@@ -2,10 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+GwenhOPS;Laravel+%7C+React+%7C+Frontend;Build.+Break.+Repeat." />
 </h1>
 
-<h1 align="center">
-  
+<p align="center">
 ![Visitor Count](https://count.getloli.com/get/@gwenhOPS-github-readme?theme=gelbooru)
-</h1>
+</p>
 
 ## 🌐 Socials
 <p align="center">
