@@ -55,11 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhOPS&theme=gotham&layout=compact&hide_border=false" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gwenhOPS&theme=radical&no-frame=false&margin-w=10" />
-</p>
-
 <p align="center">
   <i>"Build shit. Break shit. Learn fast."</i>
 </p>
