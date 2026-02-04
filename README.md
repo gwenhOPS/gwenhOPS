@@ -6,7 +6,6 @@
   
 ![Visitor Count](https://count.getloli.com/get/@gwenhOPS-github-readme?theme=gelbooru)
 </h1>
----
 
 ## 🌐 Socials
 <p align="center">
@@ -26,8 +25,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 
@@ -50,7 +47,6 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -62,14 +58,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwenhOPS&theme=gotham&layout=compact&hide_border=false" />
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gwenhOPS&theme=radical&no-frame=false&margin-w=10" />
 </p>
-
----
 
 <p align="center">
   <i>"Build shit. Break shit. Learn fast."</i>
