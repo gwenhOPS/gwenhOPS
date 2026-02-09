@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+GwenhOPS;Laravel+%7C+React+%7C+Frontend;Build.+Break.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hei%2C+I'm+GwenhOPS;Laravel+%7C+React+%7C+Frontend;Build.+Scrolling.+Repeat." />
 </h1>
 
 <p align="center">
@@ -12,13 +12,13 @@
   <a href="https://facebook.com/Kepompong-Sombrero">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/@fxckallthings_">
+  <a href="https://instagram.com/fxckallthings_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitch.tv/gwnhops">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@@GwnhTop">
+  <a href="https://youtube.com/@GwnhTop">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:inigwenh@gmail.com">
