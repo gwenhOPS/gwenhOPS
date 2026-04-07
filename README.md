@@ -9,10 +9,10 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="[https://facebook.com/Kepompong-Sombrero](https://www.facebook.com/profile.php?id=61559635629921)">
+  <a href="https://www.facebook.com/profile.php?id=61559635629921">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/fxckallthings_">
+  <a href="https://instagram.com/kxdacore">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitch.tv/gwnhops">
